@@ -1,4 +1,4 @@
-# GeoLoc
+# Quick start
 
 cURL request example :
   

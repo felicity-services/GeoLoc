@@ -7,15 +7,19 @@ cURL request example :
     =>  This request is an example and it's limited by ip address
     =>  You can use an Api REST client like Postman to test it.
 
-more example :
+Php example code:
 
-   simple code php curl          https://github.com/felicity-services/GeoLoc/PHP/simple_curl.php
+   simple php curl code           https://github.com/felicity-services/GeoLoc/PHP/simple_curl.php
    
-   simple code php pecl          https://github.com/felicity-services/GeoLoc/PHP/simple_pecl_http.php
+   simple php pecl code           https://github.com/felicity-services/GeoLoc/PHP/simple_pecl_http.php
    
-   simple code JavaScript ajax   https://github.com/felicity-services/GeoLoc/PHP/simple_ajax.js
+JavaScript example code:
    
-   simple code JavaScript xhr    https://github.com/felicity-services/GeoLoc/PHP/simple_xhr.js
+   simple JavaScript ajax code    https://github.com/felicity-services/GeoLoc/PHP/simple_ajax.js
+   
+   simple JavaScript xhr code     https://github.com/felicity-services/GeoLoc/PHP/simple_xhr.js
+   
+   
 
 Get free access key @ https://geoloc.felicity-services.com/signup
 

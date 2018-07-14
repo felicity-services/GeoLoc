@@ -22,6 +22,8 @@ JavaScript example code:
 Java example code:
 
   - simple Java ok http code        https://github.com/felicity-services/GeoLoc/blob/master/Java/simple_ok_http.java
+  
+  - simple Java unirest code        https://github.com/felicity-services/GeoLoc/blob/master/Java/simple_unirest.java
    
 
 Get free access key @ https://geoloc.felicity-services.com/signup

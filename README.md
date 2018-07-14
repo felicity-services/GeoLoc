@@ -9,15 +9,15 @@ cURL request example :
 
 Php example code:
 
-   simple php curl code           https://github.com/felicity-services/GeoLoc/PHP/simple_curl.php
+   - simple php curl code           https://github.com/felicity-services/GeoLoc/PHP/simple_curl.php
    
-   simple php pecl code           https://github.com/felicity-services/GeoLoc/PHP/simple_pecl_http.php
+   - simple php pecl code           https://github.com/felicity-services/GeoLoc/PHP/simple_pecl_http.php
    
 JavaScript example code:
    
-   simple JavaScript ajax code    https://github.com/felicity-services/GeoLoc/PHP/simple_ajax.js
+   - simple JavaScript ajax code    https://github.com/felicity-services/GeoLoc/PHP/simple_ajax.js
    
-   simple JavaScript xhr code     https://github.com/felicity-services/GeoLoc/PHP/simple_xhr.js
+   - simple JavaScript xhr code     https://github.com/felicity-services/GeoLoc/PHP/simple_xhr.js
    
    
 

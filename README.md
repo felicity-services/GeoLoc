@@ -47,5 +47,8 @@ Java example code:
   - simple Java ok http code        https://github.com/felicity-services/GeoLoc/blob/master/Java/simple_ok_http.java
   
   - simple Java unirest code        https://github.com/felicity-services/GeoLoc/blob/master/Java/simple_unirest.java
-   
+  
+Python example code:
+
+  - simple Python http.client       https://github.com/felicity-services/GeoLoc/blob/master/Python/simple_http_client.py
 

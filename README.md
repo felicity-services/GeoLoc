@@ -1,10 +1,10 @@
 # GeoLoc
 
-Request example 
+cURL request example :
 
-> GET /json/52.210.46.250 HTTP/1.1
-> Host: api.geoloc.felicity-services.com
-> ACCESS-KEY: YOUR_ACCESS_KEY
+curl -X GET \
+  https://api.geoloc.felicity-services.com/json/52.210.46.250 \
+  -H 'ACCESS-KEY: YOUR_ACCESS_KEY'
 
 Get free access key @ https://geoloc.felicity-services.com/signup
 
@@ -17,8 +17,5 @@ You can specify ip v4 adress
 You can also specify response format json or xml
     Try : https://api.geoloc.felicity-services.com/json
     Or  : https://api.geoloc.felicity-services.com/xml
-    
-          https://api.geoloc.felicity-services.com/json/52.210.46.250
-          https://api.geoloc.felicity-services.com/xml/52.210.46.250
           
  

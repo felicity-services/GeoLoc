@@ -7,6 +7,8 @@ cURL request example :
     =>  This request is an example and it's limited by ip address
     =>  You can use an Api REST client like Postman to test it.
 
+# Example code
+
 Php example code:
 
    - simple php curl code           https://github.com/felicity-services/GeoLoc/blob/master/PHP/simple_curl.php

@@ -18,7 +18,10 @@ JavaScript example code:
    - simple JavaScript ajax code    https://github.com/felicity-services/GeoLoc/blob/master/JavaScript/simple_ajax.js
    
    - simple JavaScript xhr code     https://github.com/felicity-services/GeoLoc/blob/master/JavaScript/simple_xhr.js
-   
+
+Java example code:
+
+  - simple Java ok http code        https://github.com/felicity-services/GeoLoc/blob/master/Java/simple_ok_http.java
    
 
 Get free access key @ https://geoloc.felicity-services.com/signup

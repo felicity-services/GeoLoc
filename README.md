@@ -23,4 +23,7 @@ You can also specify response format json or xml
     
     Or  : https://api.geoloc.felicity-services.com/xml
           
- 
+
+     Without using access key the number of request is limited by ip address.
+     => Max request per month = 10'000
+     You can get a free access key @ https://geoloc.felicity-services.com/signup to get 30'000 request per month

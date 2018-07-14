@@ -1,10 +1,8 @@
 # GeoLoc
 
 cURL request example :
-
-curl -X GET \
-  https://api.geoloc.felicity-services.com/json/52.210.46.250 \
-  -H 'ACCESS-KEY: YOUR_ACCESS_KEY'
+  
+    curl -X GET \https://api.geoloc.felicity-services.com/json/52.210.46.250 \-H 'ACCESS-KEY: YOUR_ACCESS_KEY'
 
 Get free access key @ https://geoloc.felicity-services.com/signup
 

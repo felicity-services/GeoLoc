@@ -51,4 +51,6 @@ Java example code:
 Python example code:
 
   - simple Python http.client       https://github.com/felicity-services/GeoLoc/blob/master/Python/simple_http_client.py
+  
+  - simple Python requests            https://github.com/felicity-services/GeoLoc/blob/master/Python/simple_requests.py
 

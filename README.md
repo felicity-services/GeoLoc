@@ -1,3 +1,7 @@
+# GeoLoc API
+
+GeoLoc offers a powerful, real-time IP to geolocation API capable of looking up accurate location data and assessing security threats originating from risky IP addresses. Results are delivered within milliseconds in JSON or XML format. Using the GeoLoc API you will be able to locate website visitors at first glance and adjust your user experience and application accordingly. 
+
 # Quick start
 
 cURL request example :
